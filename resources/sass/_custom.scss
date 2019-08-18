@@ -1,0 +1,74 @@
+body{
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+  
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+#bootstrap-overrides h1{
+    font-size: 2.8em;
+    color: #140000;
+    font-family: 'Lato', sans-serif;
+}
+#index-info{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+
+.about-us{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    text-align: justify;
+    color: #303030;
+    padding-bottom: 8em;
+}
+
+.showProject{
+    font-size: 16px;
+}
+
+
+#bottomStripe{
+    background-color: #212529;
+    font-family: 'Courgette', cursive;
+    color: #d9f0ff;
+    font-size: 1.2em;
+    padding: 10px 10px 5px 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+
+.custom_label,#projectAdd input{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+.indexProjectTableHead{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;;
+}
+// font-family: 'Roboto', sans-serif;
+
+// font-family: 'Courgette', cursive;
+
+// font-family: 'Lato', sans-serif;
+
+// font-family: 'Open Sans', sans-serif;
+
+// font-family: 'Fira Sans', sans-serif;
+
+// font-family: 'Ropa Sans', sans-serif;
+

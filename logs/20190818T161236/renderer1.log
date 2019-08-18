@@ -1,0 +1,37 @@
+[2019-08-18 16:13:10.123] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5159ms, saved PROFILE here: '/tmp/exthost-712e6c.cpuprofile' [{"id":"gc","total":229,"percentage":0},{"id":"ritwickdey.LiveServer","total":5158435,"percentage":100}]
+[2019-08-18 20:37:42.873] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:40:07.855] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:41:14.094] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:41:47.324] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:43:31.701] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:43:47.535] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:44:23.775] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:44:24.867] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:45:16.013] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:46:18.131] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 20:52:43.082] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-18 23:17:23.671] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)

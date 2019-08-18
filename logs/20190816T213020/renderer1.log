@@ -1,0 +1,7 @@
+[2019-08-16 21:30:37.761] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 99% of 2320.476ms, saved PROFILE here: '/tmp/exthost-983007.cpuprofile' [{"id":"gc","total":14149,"percentage":1},{"id":"ritwickdey.LiveServer","total":2290258,"percentage":99},{"id":"self","total":15782,"percentage":1}]
+[2019-08-16 23:23:23.748] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
+[2019-08-16 23:23:44.177] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:157987
+	at asHover (/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain.js:1:158251)
