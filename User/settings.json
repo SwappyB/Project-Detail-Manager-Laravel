@@ -1,4 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "window.zoomLevel": 0
 }

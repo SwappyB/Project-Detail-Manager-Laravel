@@ -11,6 +11,8 @@
             <label class='custom_label'>Title</label>
             <input name="title" class="form-control" type="text" required placeholder="Enter project title here">
         </div>
+        {{-- {{ $data['customers'][0]->name }}
+        {{ $data['customers'][0]->cid }} --}}
         <div class="form-group">
                 <label class='custom_label'>Field</label>
                 <input name="field" class="form-control" type="text" required placeholder="Enter the field to which project belong">
@@ -49,10 +51,34 @@
                 </select>
         </div>
 
+        <div class="form-group">
+                <label class='custom_label'>Customer</label>
+                <select  class="form-control" name="customer" id="projectType">
+                    <option value="">Select Customer</option>
+
+                    @foreach ($data['customers'] as $customer)
+                    <option value="{{ $customer->cid }}">{{ $customer->name }}</option>
+                    @endforeach
+
+                </select>
+        </div>
+
+        {{-- <div class="form-group">
+                <label class='custom_label'>Members</label>
+                <select multiple class="form-control" name="members[]" id="projectType">
+                    <option value="">Select Members</option>
+
+                    @foreach ($data['members'] as $member)
+                    <option value="{{ $member->mid }}">{{ $member->name }}</option>
+                    @endforeach
+
+                </select>
+        </div> --}}
+
         {{-- csrf token mandatory for laravel--}}
         <input name="_token" type="hidden" value="{{ csrf_token() }}"/>
 
-        <input style="margin-left:40%;margin-bottom:150px" type="submit" class="btn btn-primary btn-lg" placeholder="Submit">
+        <input style="margin-left:40%;margin-bottom:150px" type="submit" class="btn btn-primary btn-lg" value="Submit">
 
     </form>
 @endsection

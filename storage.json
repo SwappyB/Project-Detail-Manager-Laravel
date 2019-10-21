@@ -2,6 +2,7 @@
     "telemetry.machineId": "8e9f6284fa5f7f533da21d477efffb832ba16f69d804234e3e57ea5030f948ae",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/swapnil/Desktop/Server-CC",
             "file:///var/www/html/sdcProject"
         ],
         "files2": []
@@ -49,7 +50,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/var/www/html/sdcProject",
+                                        "fsPath": "/home/swapnil/Desktop/Server-CC",
+                                        "external": "file:///home/swapnil/Desktop/Server-CC",
+                                        "path": "/home/swapnil/Desktop/Server-CC",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Server-CC"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///var/www/html/sdcProject",
                                         "path": "/var/www/html/sdcProject",
                                         "scheme": "file"
@@ -552,7 +564,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1380,18 +1393,18 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/var/www/html",
+    "themeBackground": "#212122",
+    "pickerWorkingDir": "/home/swapnil/Desktop",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///var/www/html/sdcProject",
             "backupPath": "/var/www/html/sdcProject/Backups/9275cf51cfcb2df49d60cf2703ae4f9e",
             "uiState": {
                 "mode": 0,
-                "x": 0,
-                "y": 53,
-                "width": 1600,
-                "height": 847
+                "x": 1855,
+                "y": 160,
+                "width": 1200,
+                "height": 628
             }
         },
         "openedWindows": []

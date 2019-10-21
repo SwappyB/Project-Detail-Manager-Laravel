@@ -1,0 +1,20 @@
+[Info  - 10:51:06 AM] ESLint server stopped.
+[Info  - 10:51:07 AM] ESLint server running in node v10.11.0
+[Info  - 10:51:07 AM] ESLint server is running.
+[Info  - 10:51:27 AM] 
+Failed to load the ESLint library for the document /home/swapnil/Desktop/Server-CC/models/Company.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder Server-CC
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder Server-CC by executing the 'Disable ESLint' command.
+[Info  - 10:51:27 AM] 
+Failed to load the ESLint library for the document /home/swapnil/Desktop/Server-CC/controllers/profiles/findProfile/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder Server-CC
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder Server-CC by executing the 'Disable ESLint' command.
+[Info  - 10:51:48 AM] ESLint server stopped.

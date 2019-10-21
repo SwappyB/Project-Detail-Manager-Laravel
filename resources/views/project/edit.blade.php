@@ -8,7 +8,7 @@
         <button class="btn btn-danger btn-lg float-right" onclick="location.href='{{ url('/project') }}'">Go Back</button> 
     </div>
 
-    <form id="projectAdd" name="create_project" action="{{ action('projectsController@update', $projects[0]->id ) }}" method="POST">
+    <form id="projectAdd" name="create_project" action="{{ action('projectsController@update', $projects[0]->pid ) }}" method="POST">
         <div class="form-group">
             <label class='custom_label'>Title</label>
             <input name="title" class="form-control" type="text" required value="{{ $projects[0]->title}}">
@@ -55,7 +55,7 @@
         <input name="_token" type="hidden" value="{{ csrf_token() }}"/>
         <input type="hidden" name="_method" value="put" />
 
-        <input style="margin-left:40%;margin-bottom:150px" type="submit" class="btn btn-primary btn-lg" placeholder="Submit">
+        <input style="margin-left:40%;margin-bottom:150px" onclick="return confirm('Update changes?')" type="submit" class="btn btn-primary btn-lg" value="Submit">
 
     </form>
 

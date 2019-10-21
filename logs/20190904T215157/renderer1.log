@@ -1,0 +1,1 @@
+[2019-09-04 21:52:09.303] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/swapnil/.vscode/extensions/pkief.material-icon-theme-3.8.1/dist/material-icons.json'

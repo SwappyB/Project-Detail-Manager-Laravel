@@ -5,7 +5,6 @@
         <h1>Welcome To Project Details Manager</h1>
         <p id="index-info">This is the application that stores the information about all the completed and running projects in Software Development Cell, KJSIEIT</p>
         <p><a class="btn btn-primary btn-lg" href="/login" role="button">Login</a>
-        <a class="btn btn-success btn-lg" href="/project" role="button">Continue as guest </a></p> 
     </div>
     <div class="about-us">
         <h3 style="color:black;">About Us:</h3>

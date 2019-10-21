@@ -1,0 +1,40 @@
+[2019-09-05 17:43:25.385] [exthost] [info] extension host started
+[2019-09-05 17:43:25.408] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"activationEvent":"onLanguage:blade"}
+[2019-09-05 17:43:25.408] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/onecentlin.laravel-blade-1.20.0/out/src/extension
+[2019-09-05 17:43:28.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:28.650] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-05 17:43:28.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:28.789] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-05 17:43:29.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:29.070] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-05 17:43:29.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:29.458] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-05 17:43:29.614] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:29.614] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-05 17:43:29.792] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:29.792] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-09-05 17:43:30.473] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:30.473] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/esbenp.prettier-vscode-2.2.2/out/extension
+[2019-09-05 17:43:35.224] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:35.224] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-05 17:43:35.321] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-09-05 17:43:35.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-09-05 17:43:53.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-09-05 17:43:53.067] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-09-05 17:43:54.748] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2019-09-05 17:43:54.748] [exthost] [info] ExtensionService#loadCommonJSModule /home/swapnil/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/out/extension
+[2019-09-05 17:43:56.644] [exthost] [info] eager extensions activated
+[2019-09-05 17:44:51.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-09-05 17:44:51.260] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-09-05 17:48:45.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-09-05 17:48:45.551] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-09-05 17:56:30.683] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-09-05 17:56:30.686] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/swapnil/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/swapnil/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/swapnil/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/swapnil/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)
